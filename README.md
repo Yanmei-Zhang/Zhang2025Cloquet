@@ -1,6 +1,6 @@
 # Zhang2025Cloquet
 
-This is the scripts for amplicon sequencing data analysis, statistics, and plotting figures in the paper "Wood ‘endophyte’ trait in predicting deadwood decomposition outcomes by a long-term, repeated measure in a boreal forest".
+These are sample-associated metadata, wood physiochemistry data, and scripts for sequencing data analysis, statistics, and plotting figures in the paper "Wood ‘endophyte’ trait in predicting deadwood decomposition outcomes by a long-term, repeated measure in a boreal forest".
 
 /data # ASV table, metadata and phyleseq objects for both fungi and bacteria
 /Script # General script in this study
