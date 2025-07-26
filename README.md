@@ -8,4 +8,4 @@
 
 If you prefer to use the scripts in this paper, please cite:
 
-Yanmei Zhang, Zhuobing Peng, Zewei Song, Jonathan S. Schilling. Repeated measures of decaying wood reveal the success and influence of fungal wood endophytes. 2025. *mSystems*
+Yanmei Zhang, Zhuobing Peng, Zewei Song, Jonathan S. Schilling. Repeated measures of decaying wood reveal the success and influence of fungal wood endophytes. 2025. *mSystems*.
